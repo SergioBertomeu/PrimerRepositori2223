@@ -1,2 +1,3 @@
 Avui es Disabte
 Avui estem a dillums hi ha
+Estic editant desde la pagina original del GitHub
